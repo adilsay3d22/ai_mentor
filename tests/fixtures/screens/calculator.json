@@ -1,0 +1,12 @@
+{
+  "process_name": "applicationframehost.exe",
+  "window_title": "Calculator",
+  "version": "10.0.26100.9278",
+  "bounds": {
+    "x": 47,
+    "y": 66,
+    "w": 322,
+    "h": 534
+  },
+  "capture_source": "mss"
+}

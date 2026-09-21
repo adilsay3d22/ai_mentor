@@ -1,0 +1,12 @@
+{
+  "process_name": "explorer.exe",
+  "window_title": "Windows - File Explorer",
+  "version": "10.0.26100.9444",
+  "bounds": {
+    "x": 0,
+    "y": 26,
+    "w": 1920,
+    "h": 1054
+  },
+  "capture_source": "mss"
+}

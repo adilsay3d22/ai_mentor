@@ -1,0 +1,12 @@
+{
+  "process_name": "notepad.exe",
+  "window_title": "Untitled - Notepad",
+  "version": "11.2607.14.0",
+  "bounds": {
+    "x": 705,
+    "y": 218,
+    "w": 948,
+    "h": 511
+  },
+  "capture_source": "mss"
+}
