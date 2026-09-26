@@ -275,4 +275,4 @@ mentor/
 
 ## Licence
 
-Not yet chosen.
+[MIT](LICENSE).
